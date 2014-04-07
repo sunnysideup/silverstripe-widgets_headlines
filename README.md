@@ -1,19 +1,28 @@
-###############################################
 widgets Headlines
-###############################################
+================================================================================
+
 
 Maintainer Contact
 -----------------------------------------------
 nicolaas [at] sunnysideup.co.nz
 
+
 Requirements
 -----------------------------------------------
-SS 2.3+
+see composer.json
 
 
 Documentation
 -----------------------------------------------
-adds a customisable list of links
+Please contact author for more details.
+
+Any bug reports and/or feature requests will be
+looked at
+
+We are also very happy to provide personalised support
+for this module in exchange for a small donation.
+
+
 
 Installation Instructions
 -----------------------------------------------
@@ -24,8 +33,6 @@ NB. the idea is not to edit the module at all, but instead customise
 it from your mysite folder, so that you can upgrade the module without redoing the settings.
 
 
-Usage Overview
------------------------------------------------
 
 
 
