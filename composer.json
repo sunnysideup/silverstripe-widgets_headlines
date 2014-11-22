@@ -1,9 +1,9 @@
 {
 	"name": "sunnysideup/widgets_headlines",
 	"type": "silverstripe-module",
-	"description": "",
+	"description": "Adds a headline widget to your widgets collection.",
 	"homepage": "http://www.silverstripe-webdevelopment.com",
-	"keywords": ["widgets_headlines", "silverstripe"],
+	"keywords": ["widgets_headlines", "silverstripe", "widgets", "headlines", "blog"],
 	"license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
 	"authors":[
 		{
@@ -14,7 +14,7 @@
 		}
 	],
 	"require":{
-		"silverstripe/framework": "~2.4"
+		"silverstripe/framework": "2.4.7"
 	},
 	"extra": {
 		"installer-name": "widgets_headlines"
