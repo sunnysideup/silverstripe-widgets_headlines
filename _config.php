@@ -9,7 +9,3 @@
 //===================---------------- START widgets_headlines MODULE ----------------===================
 //HeadLines::set_boolean_field_used_to_identify_headline("IsHeadline");
 //===================---------------- END widgets_headlines MODULE ----------------===================
-
-
-
-
