@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<source xmlns="http://xml.phpdox.net/src">
-  <dir name="/var/www/_modules/widgets_headlines/trunk">
-    <file name="_config.php" size="504" time="2015-03-14T10:22:12+13:00" unixtime="1426281732" sha1="9c9805cb1f01e363ad5fd5e29b68c0602ff5f7e9" xml="tokens/_config.php.xml"/>
-    <file name="Headlines.php" size="992" time="2015-03-14T10:22:12+13:00" unixtime="1426281732" sha1="a5d70ab97b553a4e68c1e73d7acf77f234d5be7c" xml="tokens/Headlines.php.xml"/>
-  </dir>
-</source>

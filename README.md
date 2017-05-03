@@ -15,7 +15,7 @@
 
  * [Developer Docs](docs/en/INDEX.md)
  * [User Guide](docs/en/userguide.md)
- * [API Docs](http://docs.ssmods.com/sunnysideup/widgets_headlines)
+ * [API Docs](http://docs.ssmods.com/sunnysideup/widgets_headlines/classes.xhtml)
 
 ## Requirements
 
